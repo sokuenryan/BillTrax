@@ -1,0 +1,44 @@
+.react-calendar__navigation {
+   margin-top: 30px;
+}
+
+.react-calendar__navigation__prev2-button,
+.react-calendar__navigation__next2-button,
+.react-calendar__navigation__prev-button,
+.react-calendar__navigation__next-button {
+    height: 30px;
+    width: 28px;
+}
+
+.react-calendar__navigation__label {
+    width: 150px;
+    height: 30px;
+}
+
+.react-calendar__month-view__weekdays {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 600;
+    font-size: 20px;
+}
+
+.react-calendar__month-view__weekdays__weekday {
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+}
+
+.react-calendar__month-view__weekdays__weekday abbr[title] {
+    text-decoration: none;
+}
+
+
+.react-calendar__month-view__days button {
+    display: flex;
+    justify-content: left;
+    align-items: top;
+    height: 70px;
+    width: 80px;
+}
+
+
+
